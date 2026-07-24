@@ -27,11 +27,11 @@ Originally built as a Class XII Computer Science project (CBSE) demonstrating da
 
 ```
 netflix-titles-analyser/
-├── data/
-│   └── netflix_titles.csv     # Source dataset (Kaggle)
+├── netflix_titles.csv          # Source Dataset (Kaggle)
 ├── load_data.py                # Loads CSV into SQLite (creates netflix.db)
 ├── netflix_analyser.py         # Main menu-driven application
-├── netflix.db                  # Generated SQLite database (not tracked in git)
+├── project_report.pdf
+├── .gitignore                  
 └── README.md
 ```
 
