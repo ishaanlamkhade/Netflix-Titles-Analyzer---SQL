@@ -1,1 +1,3 @@
-
+netflix.db
+__pycache__/
+*.pyc
