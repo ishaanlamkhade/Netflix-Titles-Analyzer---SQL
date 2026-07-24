@@ -6,12 +6,12 @@ Originally built as a Class XII Computer Science project (CBSE) demonstrating da
 
 ## Features
 
-- 🔍 **Search** titles by genre, country, rating, release year, or title keyword
-- 🧩 **Advanced search** combining multiple filters at once
-- ➕ **Add** new records to the database
-- ➖ **Delete** records by show ID
-- 📊 **Visualisations**: top 10 countries, rating distribution, movies vs. TV shows, titles per year
-- 🗂️ Neatly formatted table output via `tabulate`
+- Search titles by genre, country, rating, release year, or title keyword
+- Advanced search combining multiple filters at once
+- Add new records to the database
+- Delete records by show ID
+- Visualisations: top 10 countries, rating distribution, movies vs. TV shows, titles per year
+- Neatly formatted table output via `tabulate`
 
 ## Tech Stack
 
